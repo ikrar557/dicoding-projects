@@ -1,0 +1,19 @@
+{
+  "name": "dicoding-projects",
+  "version": "1.0.0",
+  "description": "This project is a collection of codes or programs that contain submissions or application exercises during the learning process from Dicoding. This repository only functions as a container and will utilize the branching feature on GitHub for its projects. The author understands that the utilization of the branch feature is not in accordance with what is recommended, but the aim is only to facilitate project management on GitHub.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikrar557/dicoding-projects.git"
+  },
+  "author": "Ikrar Bagaskara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikrar557/dicoding-projects/issues"
+  },
+  "homepage": "https://github.com/ikrar557/dicoding-projects#readme"
+}
